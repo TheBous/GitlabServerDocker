@@ -1,0 +1,15 @@
+2018-05-22_08:56:29.91520 LOG:  database system was interrupted; last known up at 2018-05-22 08:51:03 GMT
+2018-05-22_08:56:30.44497 FATAL:  the database system is starting up
+2018-05-22_08:56:30.56590 FATAL:  the database system is starting up
+2018-05-22_08:56:30.60243 FATAL:  the database system is starting up
+2018-05-22_08:56:32.66475 FATAL:  the database system is starting up
+2018-05-22_08:56:32.70461 FATAL:  the database system is starting up
+2018-05-22_08:56:34.44932 LOG:  database system was not properly shut down; automatic recovery in progress
+2018-05-22_08:56:34.51944 LOG:  redo starts at 0/1A28ED8
+2018-05-22_08:56:34.52128 LOG:  invalid record length at 0/1A2ACA8: wanted 24, got 0
+2018-05-22_08:56:34.52168 LOG:  redo done at 0/1A28ED8
+2018-05-22_08:56:34.68769 LOG:  MultiXact member wraparound protections are now enabled
+2018-05-22_08:56:34.69112 LOG:  database system is ready to accept connections
+2018-05-22_08:56:34.69302 LOG:  autovacuum launcher started
+2018-05-22_08:57:34.44645 LOG:  could not send data to client: Broken pipe
+2018-05-22_08:57:34.44702 FATAL:  connection to client lost

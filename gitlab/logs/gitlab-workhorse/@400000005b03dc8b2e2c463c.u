@@ -1,0 +1,10 @@
+2018-05-22_08:56:44.88766 time="2018-05-22T08:56:44Z" level=info msg=Starting version="gitlab-workhorse v4.1.0-20180502.220512"
+2018-05-22_08:56:44.89529 time="2018-05-22T08:56:44Z" level=info msg="keywatcher: starting process loop"
+2018-05-22_08:56:44.89557 time="2018-05-22T08:56:44Z" level=info msg="redis: dialing" address=/var/opt/gitlab/redis/redis.socket network=unix
+2018-05-22_08:57:33.38981 time="2018-05-22T08:57:33Z" level=info msg=Starting version="gitlab-workhorse v4.1.0-20180502.220512"
+2018-05-22_08:57:33.39564 time="2018-05-22T08:57:33Z" level=info msg="keywatcher: starting process loop"
+2018-05-22_08:57:33.39586 time="2018-05-22T08:57:33Z" level=info msg="redis: dialing" address=/var/opt/gitlab/redis/redis.socket network=unix
+2018-05-22_08:57:55.94764 localhost @ - - [2018/05/22:08:57:55 +0000] "GET /help HTTP/1.1" 200 36167 "" "curl/7.56.1" 0.957
+2018-05-22_08:58:56.44997 localhost @ - - [2018/05/22:08:58:56 +0000] "GET /help HTTP/1.1" 200 36167 "" "curl/7.56.1" 0.119
+2018-05-22_08:59:56.77098 localhost @ - - [2018/05/22:08:59:56 +0000] "GET /help HTTP/1.1" 200 36167 "" "curl/7.56.1" 0.246
+2018-05-22_09:00:56.97245 localhost @ - - [2018/05/22:09:00:56 +0000] "GET /help HTTP/1.1" 200 36167 "" "curl/7.56.1" 0.110

@@ -1,0 +1,10 @@
+2018-05-22_08:47:18.43980 time="2018-05-22T08:47:18Z" level=info msg=Starting version="gitlab-workhorse v4.1.0-20180502.220512"
+2018-05-22_08:47:18.45068 time="2018-05-22T08:47:18Z" level=fatal msg="Can not load config file" configFile=config.toml error="open config.toml: no such file or directory"
+2018-05-22_08:47:19.52214 time="2018-05-22T08:47:19Z" level=info msg=Starting version="gitlab-workhorse v4.1.0-20180502.220512"
+2018-05-22_08:47:19.53963 time="2018-05-22T08:47:19Z" level=info msg="keywatcher: starting process loop"
+2018-05-22_08:47:19.53999 time="2018-05-22T08:47:19Z" level=info msg="redis: dialing" address=/var/opt/gitlab/redis/redis.socket network=unix
+2018-05-22_08:48:18.48744 localhost @ - - [2018/05/22:08:48:18 +0000] "GET /help HTTP/1.1" 200 36177 "" "curl/7.56.1" 2.633
+2018-05-22_08:48:29.94908 time="2018-05-22T08:48:29Z" level=info msg=Starting version="gitlab-workhorse v4.1.0-20180502.220512"
+2018-05-22_08:48:29.95410 time="2018-05-22T08:48:29Z" level=info msg="keywatcher: starting process loop"
+2018-05-22_08:48:29.95437 time="2018-05-22T08:48:29Z" level=info msg="redis: dialing" address=/var/opt/gitlab/redis/redis.socket network=unix
+2018-05-22_08:49:20.16422 localhost @ - - [2018/05/22:08:49:20 +0000] "GET /help HTTP/1.1" 200 36177 "" "curl/7.56.1" 1.313

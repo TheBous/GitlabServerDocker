@@ -1,0 +1,74 @@
+=============== May 22, 2018 (UTC) ===============
+09:32:16.115176 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+09:32:16.132036 db@open opening
+09:32:16.141021 version@stat F·[] S·0B[] Sc·[]
+09:32:16.146215 db@janitor F·2 G·0
+09:32:16.146644 db@open done T·14.1643ms
+10:21:03.836712 db@close closing
+10:21:03.837685 db@close done T·972.3µs
+=============== May 22, 2018 (UTC) ===============
+10:21:04.655134 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+10:21:04.672217 version@stat F·[] S·0B[] Sc·[]
+10:21:04.673038 db@open opening
+10:21:04.674380 journal@recovery F·1
+10:21:04.674822 journal@recovery recovering @1
+10:21:04.709873 memdb@flush created L0@2 N·1896 S·352KiB "\x04db\x06db0,v109":"\x1cre..68c,v885"
+10:21:04.711893 version@stat F·[1] S·352KiB[352KiB] Sc·[0.25]
+10:21:04.719212 db@janitor F·3 G·0
+10:21:04.719508 db@open done T·46.2228ms
+10:23:51.447977 db@close closing
+10:23:51.449430 db@close done T·1.4131ms
+=============== May 22, 2018 (UTC) ===============
+10:23:51.864713 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+10:23:51.870522 version@stat F·[1] S·352KiB[352KiB] Sc·[0.25]
+10:23:51.871551 db@open opening
+10:23:51.874413 journal@recovery F·1
+10:23:51.877330 journal@recovery recovering @3
+10:23:51.888110 memdb@flush created L0@5 N·15 S·14KiB "\x06ds..dis,v1898":"\x10in..229,v1901"
+10:23:51.889367 version@stat F·[2] S·367KiB[367KiB] Sc·[0.50]
+10:23:51.894976 db@janitor F·4 G·0
+10:23:51.895280 db@open done T·22.2784ms
+10:46:51.089600 db@close closing
+10:46:51.090770 db@close done T·1.1779ms
+=============== May 22, 2018 (UTC) ===============
+10:46:52.074098 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+10:46:52.083055 version@stat F·[2] S·367KiB[367KiB] Sc·[0.50]
+10:46:52.083516 db@open opening
+10:46:52.085131 journal@recovery F·1
+10:46:52.094736 journal@recovery recovering @6
+10:46:52.120748 memdb@flush created L0@8 N·13 S·12KiB "\x06jo..ess,v1923":"\x10in..168,v1925"
+10:46:52.122670 version@stat F·[3] S·379KiB[379KiB] Sc·[0.75]
+10:46:52.133902 db@janitor F·5 G·0
+10:46:52.134266 db@open done T·50.4343ms
+10:48:50.243810 db@close closing
+10:48:50.245621 db@close done T·1.8064ms
+=============== May 22, 2018 (UTC) ===============
+10:48:50.805928 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+10:48:50.841213 version@stat F·[3] S·379KiB[379KiB] Sc·[0.75]
+10:48:50.841759 db@open opening
+10:48:50.844339 journal@recovery F·1
+10:48:50.845505 journal@recovery recovering @9
+10:48:50.854872 memdb@flush created L0@11 N·13 S·14KiB "\x06jo..ess,v1939":"\x10in..168,v1933"
+10:48:50.862357 version@stat F·[4] S·394KiB[394KiB] Sc·[1.00]
+10:48:50.883841 db@janitor F·6 G·0
+10:48:50.884954 db@open done T·42.5924ms
+10:48:50.885010 table@compaction L0·4 -> L1·0 S·394KiB Q·1941
+10:48:50.965643 table@build created L1@14 N·1851 S·287KiB "\x04db\x06db0,v109":"\x1cre..68c,v885"
+10:48:50.966261 version@stat F·[0 1] S·287KiB[0B 287KiB] Sc·[0.00 0.00]
+10:48:50.971932 table@compaction committed F-3 S-106KiB Ke·0 D·86 T·85.4123ms
+10:48:50.974781 table@remove removed @11
+10:48:50.976635 table@remove removed @8
+10:48:50.978249 table@remove removed @5
+10:48:50.981866 table@remove removed @2
+10:50:25.748217 db@close closing
+10:50:25.749275 db@close done T·1.0177ms
+=============== May 22, 2018 (UTC) ===============
+10:50:26.628229 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+10:50:26.636834 version@stat F·[0 1] S·287KiB[0B 287KiB] Sc·[0.00 0.00]
+10:50:26.637292 db@open opening
+10:50:26.639173 journal@recovery F·1
+10:50:26.640968 journal@recovery recovering @12
+10:50:26.648232 memdb@flush created L0@15 N·13 S·14KiB "\x06jo..ess,v1949":"\x10in..168,v1947"
+10:50:26.649342 version@stat F·[1 1] S·302KiB[14KiB 287KiB] Sc·[0.25 0.00]
+10:50:26.657239 db@janitor F·4 G·0
+10:50:26.657550 db@open done T·19.7349ms

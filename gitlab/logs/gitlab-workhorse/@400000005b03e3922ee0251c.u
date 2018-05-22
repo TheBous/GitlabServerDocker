@@ -1,0 +1,16 @@
+2018-05-22_09:23:33.75319 time="2018-05-22T09:23:33Z" level=info msg=Starting version="gitlab-workhorse v4.1.0-20180502.220512"
+2018-05-22_09:23:33.75875 time="2018-05-22T09:23:33Z" level=info msg="keywatcher: starting process loop"
+2018-05-22_09:23:33.75902 time="2018-05-22T09:23:33Z" level=info msg="redis: dialing" address=/var/opt/gitlab/redis/redis.socket network=unix
+2018-05-22_09:24:16.29298 localhost:30080 @ - - [2018/05/22:09:24:16 +0000] "GET / HTTP/1.1" 200 20069 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36" 1.301
+2018-05-22_09:24:17.46125 time="2018-05-22T09:24:17Z" level=info msg="Send static file" encoding=gzip file=/opt/gitlab/embedded/service/gitlab-rails/public/assets/favicon-075eba76312e8421991a0c1f89a89ee81678bcde72319dd3e8047e2a47cd3a42.ico method=GET uri=/assets/favicon-075eba76312e8421991a0c1f89a89ee81678bcde72319dd3e8047e2a47cd3a42.ico
+2018-05-22_09:24:17.59907 localhost:30080 @ - - [2018/05/22:09:24:17 +0000] "GET /assets/favicon-075eba76312e8421991a0c1f89a89ee81678bcde72319dd3e8047e2a47cd3a42.ico HTTP/1.1" 200 1384 "http://localhost:30080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36" 0.185
+2018-05-22_09:24:18.81436 time="2018-05-22T09:24:18Z" level=info msg=Starting version="gitlab-workhorse v4.1.0-20180502.220512"
+2018-05-22_09:24:18.82075 time="2018-05-22T09:24:18Z" level=info msg="keywatcher: starting process loop"
+2018-05-22_09:24:18.82108 time="2018-05-22T09:24:18Z" level=info msg="redis: dialing" address=/var/opt/gitlab/redis/redis.socket network=unix
+2018-05-22_09:24:45.07308 localhost:30080 @ - - [2018/05/22:09:24:45 +0000] "GET /help HTTP/1.1" 200 36213 "" "curl/7.56.1" 0.516
+2018-05-22_09:25:46.06092 localhost:30080 @ - - [2018/05/22:09:25:46 +0000] "GET /help HTTP/1.1" 200 36213 "" "curl/7.56.1" 0.662
+2018-05-22_09:26:46.30134 localhost:30080 @ - - [2018/05/22:09:26:46 +0000] "GET /help HTTP/1.1" 200 36213 "" "curl/7.56.1" 0.139
+2018-05-22_09:27:46.74726 localhost:30080 @ - - [2018/05/22:09:27:46 +0000] "GET /help HTTP/1.1" 200 36213 "" "curl/7.56.1" 0.358
+2018-05-22_09:28:47.03328 localhost:30080 @ - - [2018/05/22:09:28:47 +0000] "GET /help HTTP/1.1" 200 36213 "" "curl/7.56.1" 0.140
+2018-05-22_09:29:47.95190 localhost:30080 @ - - [2018/05/22:09:29:47 +0000] "GET /help HTTP/1.1" 200 36213 "" "curl/7.56.1" 0.828
+2018-05-22_09:30:48.21685 localhost:30080 @ - - [2018/05/22:09:30:48 +0000] "GET /help HTTP/1.1" 200 36213 "" "curl/7.56.1" 0.183

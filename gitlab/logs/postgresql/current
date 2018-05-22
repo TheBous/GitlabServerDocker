@@ -1,0 +1,136 @@
+2018-05-22_09:31:33.76259 LOG:  database system was interrupted; last known up at 2018-05-22 09:23:18 GMT
+2018-05-22_09:31:34.75275 FATAL:  the database system is starting up
+2018-05-22_09:31:34.85173 FATAL:  the database system is starting up
+2018-05-22_09:31:34.89037 FATAL:  the database system is starting up
+2018-05-22_09:31:36.93909 FATAL:  the database system is starting up
+2018-05-22_09:31:36.96851 FATAL:  the database system is starting up
+2018-05-22_09:31:38.10600 LOG:  database system was not properly shut down; automatic recovery in progress
+2018-05-22_09:31:38.19316 LOG:  invalid record length at 0/1A31B30: wanted 24, got 0
+2018-05-22_09:31:38.19344 LOG:  redo is not required
+2018-05-22_09:31:38.43571 LOG:  MultiXact member wraparound protections are now enabled
+2018-05-22_09:31:38.43934 LOG:  database system is ready to accept connections
+2018-05-22_09:31:38.44130 LOG:  autovacuum launcher started
+2018-05-22_10:21:02.97858 received TERM from runit, sending INT instead to force quit connections
+2018-05-22_10:21:02.98163 LOG:  received fast shutdown request
+2018-05-22_10:21:02.98201 LOG:  aborting any active transactions
+2018-05-22_10:21:02.98232 FATAL:  terminating connection due to administrator command
+2018-05-22_10:21:02.98380 FATAL:  terminating connection due to administrator command
+2018-05-22_10:21:02.98415 FATAL:  terminating connection due to administrator command
+2018-05-22_10:21:02.98456 FATAL:  terminating connection due to administrator command
+2018-05-22_10:21:02.98500 STATEMENT:  SELECT relnamespace::regnamespace as schemaname,
+2018-05-22_10:21:02.98530 	       relname as relname,
+2018-05-22_10:21:02.98662 	       pg_total_relation_size(oid) bytes
+2018-05-22_10:21:02.98768 	  FROM pg_class
+2018-05-22_10:21:02.98809 	 WHERE relkind = 'r';
+2018-05-22_10:21:02.98891 	
+2018-05-22_10:21:02.98955 LOG:  autovacuum launcher shutting down
+2018-05-22_10:21:03.02216 FATAL:  the database system is shutting down
+2018-05-22_10:21:03.02363 FATAL:  the database system is shutting down
+2018-05-22_10:21:03.10934 LOG:  shutting down
+2018-05-22_10:21:03.25069 LOG:  database system is shut down
+2018-05-22_10:21:03.61399 LOG:  database system was shut down at 2018-05-22 10:21:03 GMT
+2018-05-22_10:21:03.64164 LOG:  MultiXact member wraparound protections are now enabled
+2018-05-22_10:21:03.64727 LOG:  database system is ready to accept connections
+2018-05-22_10:21:03.65245 LOG:  autovacuum launcher started
+2018-05-22_10:23:50.83488 received TERM from runit, sending INT instead to force quit connections
+2018-05-22_10:23:50.83738 LOG:  received fast shutdown request
+2018-05-22_10:23:50.84140 LOG:  aborting any active transactions
+2018-05-22_10:23:50.84172 LOG:  autovacuum launcher shutting down
+2018-05-22_10:23:50.84198 FATAL:  terminating connection due to administrator command
+2018-05-22_10:23:50.84220 FATAL:  terminating connection due to administrator command
+2018-05-22_10:23:50.84254 STATEMENT:  SELECT relnamespace::regnamespace as schemaname,
+2018-05-22_10:23:50.84299 	       relname as relname,
+2018-05-22_10:23:50.84332 	       pg_total_relation_size(oid) bytes
+2018-05-22_10:23:50.84363 	  FROM pg_class
+2018-05-22_10:23:50.84401 	 WHERE relkind = 'r';
+2018-05-22_10:23:50.84429 	
+2018-05-22_10:23:50.84466 FATAL:  terminating connection due to administrator command
+2018-05-22_10:23:50.86072 FATAL:  the database system is shutting down
+2018-05-22_10:23:50.86297 FATAL:  the database system is shutting down
+2018-05-22_10:23:50.89203 LOG:  shutting down
+2018-05-22_10:23:50.93570 LOG:  database system is shut down
+2018-05-22_10:23:51.09104 LOG:  database system was shut down at 2018-05-22 10:23:50 GMT
+2018-05-22_10:23:51.10553 LOG:  MultiXact member wraparound protections are now enabled
+2018-05-22_10:23:51.10877 LOG:  database system is ready to accept connections
+2018-05-22_10:23:51.10964 LOG:  autovacuum launcher started
+2018-05-22_10:46:49.97087 LOG:  could not send data to client: Broken pipe
+2018-05-22_10:46:49.97126 FATAL:  connection to client lost
+2018-05-22_10:46:50.19722 received TERM from runit, sending INT instead to force quit connections
+2018-05-22_10:46:50.20955 LOG:  received fast shutdown request
+2018-05-22_10:46:50.21320 LOG:  aborting any active transactions
+2018-05-22_10:46:50.21398 FATAL:  terminating connection due to administrator command
+2018-05-22_10:46:50.21777 FATAL:  terminating connection due to administrator command
+2018-05-22_10:46:50.21833 FATAL:  terminating connection due to administrator command
+2018-05-22_10:46:50.21899 FATAL:  terminating connection due to administrator command
+2018-05-22_10:46:50.21952 STATEMENT:  SELECT relnamespace::regnamespace as schemaname,
+2018-05-22_10:46:50.22058 	       relname as relname,
+2018-05-22_10:46:50.22088 	       pg_total_relation_size(oid) bytes
+2018-05-22_10:46:50.22124 	  FROM pg_class
+2018-05-22_10:46:50.22269 	 WHERE relkind = 'r';
+2018-05-22_10:46:50.22312 	
+2018-05-22_10:46:50.22355 LOG:  autovacuum launcher shutting down
+2018-05-22_10:46:50.25298 FATAL:  the database system is shutting down
+2018-05-22_10:46:50.26061 FATAL:  the database system is shutting down
+2018-05-22_10:46:50.27144 FATAL:  the database system is shutting down
+2018-05-22_10:46:50.27992 FATAL:  the database system is shutting down
+2018-05-22_10:46:50.28858 FATAL:  the database system is shutting down
+2018-05-22_10:46:50.29630 FATAL:  the database system is shutting down
+2018-05-22_10:46:50.30521 FATAL:  terminating connection due to administrator command
+2018-05-22_10:46:50.30553 STATEMENT:  SELECT EXISTS (SELECT 1 FROM information_schema.columns WHERE table_name='projects' AND column_name='mirror')
+2018-05-22_10:46:50.30586 	
+2018-05-22_10:46:50.30621 FATAL:  the database system is shutting down
+2018-05-22_10:46:50.31612 FATAL:  the database system is shutting down
+2018-05-22_10:46:50.32381 LOG:  shutting down
+2018-05-22_10:46:50.33762 FATAL:  the database system is shutting down
+2018-05-22_10:46:50.35197 FATAL:  the database system is shutting down
+2018-05-22_10:46:50.41668 LOG:  database system is shut down
+2018-05-22_10:46:50.67439 LOG:  database system was shut down at 2018-05-22 10:46:50 GMT
+2018-05-22_10:46:50.70289 LOG:  MultiXact member wraparound protections are now enabled
+2018-05-22_10:46:50.70770 LOG:  database system is ready to accept connections
+2018-05-22_10:46:50.71357 LOG:  autovacuum launcher started
+2018-05-22_10:48:49.57378 received TERM from runit, sending INT instead to force quit connections
+2018-05-22_10:48:49.57558 LOG:  received fast shutdown request
+2018-05-22_10:48:49.57593 LOG:  aborting any active transactions
+2018-05-22_10:48:49.57633 FATAL:  terminating connection due to administrator command
+2018-05-22_10:48:49.57663 FATAL:  terminating connection due to administrator command
+2018-05-22_10:48:49.57694 FATAL:  terminating connection due to administrator command
+2018-05-22_10:48:49.57725 FATAL:  terminating connection due to administrator command
+2018-05-22_10:48:49.57751 LOG:  autovacuum launcher shutting down
+2018-05-22_10:48:49.57775 FATAL:  terminating connection due to administrator command
+2018-05-22_10:48:49.58701 FATAL:  terminating connection due to administrator command
+2018-05-22_10:48:49.58766 STATEMENT:  SELECT relnamespace::regnamespace as schemaname,
+2018-05-22_10:48:49.58835 	       relname as relname,
+2018-05-22_10:48:49.58908 	       pg_total_relation_size(oid) bytes
+2018-05-22_10:48:49.58951 	  FROM pg_class
+2018-05-22_10:48:49.58991 	 WHERE relkind = 'r';
+2018-05-22_10:48:49.59020 	
+2018-05-22_10:48:49.62468 FATAL:  the database system is shutting down
+2018-05-22_10:48:49.63605 LOG:  shutting down
+2018-05-22_10:48:49.68907 LOG:  database system is shut down
+2018-05-22_10:48:49.84418 LOG:  database system was shut down at 2018-05-22 10:48:49 GMT
+2018-05-22_10:48:49.86018 LOG:  MultiXact member wraparound protections are now enabled
+2018-05-22_10:48:49.86369 LOG:  database system is ready to accept connections
+2018-05-22_10:48:49.86425 LOG:  autovacuum launcher started
+2018-05-22_10:50:25.00165 received TERM from runit, sending INT instead to force quit connections
+2018-05-22_10:50:25.01289 LOG:  received fast shutdown request
+2018-05-22_10:50:25.01447 LOG:  aborting any active transactions
+2018-05-22_10:50:25.01487 FATAL:  terminating connection due to administrator command
+2018-05-22_10:50:25.01511 FATAL:  terminating connection due to administrator command
+2018-05-22_10:50:25.01549 FATAL:  terminating connection due to administrator command
+2018-05-22_10:50:25.01582 LOG:  autovacuum launcher shutting down
+2018-05-22_10:50:25.03500 FATAL:  terminating connection due to administrator command
+2018-05-22_10:50:25.03614 STATEMENT:  SELECT
+2018-05-22_10:50:25.03649 	  COUNT(*) AS queries,
+2018-05-22_10:50:25.03673 	  MAX(EXTRACT(EPOCH FROM (clock_timestamp() - query_start))) AS age_in_seconds
+2018-05-22_10:50:25.03701 	FROM pg_catalog.pg_stat_activity
+2018-05-22_10:50:25.03735 	WHERE state = 'active' AND trim(query) ~* '\AVACUUM ANALYZE'
+2018-05-22_10:50:25.03925 	
+2018-05-22_10:50:25.05159 LOG:  shutting down
+2018-05-22_10:50:25.06064 FATAL:  the database system is shutting down
+2018-05-22_10:50:25.06648 FATAL:  the database system is shutting down
+2018-05-22_10:50:25.07294 FATAL:  the database system is shutting down
+2018-05-22_10:50:25.12364 LOG:  database system is shut down
+2018-05-22_10:50:25.38243 LOG:  database system was shut down at 2018-05-22 10:50:25 GMT
+2018-05-22_10:50:25.40071 LOG:  MultiXact member wraparound protections are now enabled
+2018-05-22_10:50:25.40426 LOG:  database system is ready to accept connections
+2018-05-22_10:50:25.40855 LOG:  autovacuum launcher started

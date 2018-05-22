@@ -1,0 +1,30 @@
+2018-05-22_08:50:45.46671 LOG:  database system was interrupted; last known up at 2018-05-22 08:46:13 GMT
+2018-05-22_08:50:45.84587 FATAL:  the database system is starting up
+2018-05-22_08:50:45.91407 FATAL:  the database system is starting up
+2018-05-22_08:50:45.95247 FATAL:  the database system is starting up
+2018-05-22_08:50:47.99288 FATAL:  the database system is starting up
+2018-05-22_08:50:48.02426 FATAL:  the database system is starting up
+2018-05-22_08:50:49.95669 LOG:  database system was not properly shut down; automatic recovery in progress
+2018-05-22_08:50:50.03405 LOG:  redo starts at 0/14EEBB8
+2018-05-22_08:50:50.07824 FATAL:  the database system is starting up
+2018-05-22_08:50:50.13033 FATAL:  the database system is starting up
+2018-05-22_08:50:52.17282 FATAL:  the database system is starting up
+2018-05-22_08:50:52.20660 FATAL:  the database system is starting up
+2018-05-22_08:50:54.25350 FATAL:  the database system is starting up
+2018-05-22_08:50:54.28659 FATAL:  the database system is starting up
+2018-05-22_08:50:56.32784 FATAL:  the database system is starting up
+2018-05-22_08:50:56.36583 FATAL:  the database system is starting up
+2018-05-22_08:50:58.40887 FATAL:  the database system is starting up
+2018-05-22_08:50:58.45217 FATAL:  the database system is starting up
+2018-05-22_08:51:00.49733 FATAL:  the database system is starting up
+2018-05-22_08:51:00.53554 FATAL:  the database system is starting up
+2018-05-22_08:51:02.60034 FATAL:  the database system is starting up
+2018-05-22_08:51:02.64261 FATAL:  the database system is starting up
+2018-05-22_08:51:02.99095 LOG:  invalid record length at 0/1A28E68: wanted 24, got 0
+2018-05-22_08:51:02.99118 LOG:  redo done at 0/1A28D88
+2018-05-22_08:51:02.99143 LOG:  last completed transaction was at log time 2018-05-22 08:47:18.031138+00
+2018-05-22_08:51:03.22171 LOG:  MultiXact member wraparound protections are now enabled
+2018-05-22_08:51:03.41623 LOG:  database system is ready to accept connections
+2018-05-22_08:51:03.42111 LOG:  autovacuum launcher started
+2018-05-22_08:52:00.90132 LOG:  could not send data to client: Broken pipe
+2018-05-22_08:52:00.90405 FATAL:  connection to client lost

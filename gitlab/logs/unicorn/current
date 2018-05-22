@@ -1,0 +1,43 @@
+2018-05-22_09:31:44.70405 starting new unicorn master
+2018-05-22_09:32:29.16615 adopted new unicorn master 575
+2018-05-22_10:19:42.25656 forwarding USR2 to unicorn master 575
+2018-05-22_10:21:14.78655 Received TERM from runit, sending to process group (-PID)
+2018-05-22_10:21:14.78811 Terminated
+2018-05-22_10:21:14.78866 forwarding TERM to unicorn master 575
+2018-05-22_10:21:14.78941 forwarding CONT to unicorn master 575
+2018-05-22_10:21:14.79023 wrapper for unicorn master 575 exiting
+2018-05-22_10:21:14.84933 adopted existing unicorn master 7917
+2018-05-22_10:23:55.14005 Received TERM from runit, sending to process group (-PID)
+2018-05-22_10:23:55.14204 Terminated
+2018-05-22_10:23:55.14292 forwarding TERM to unicorn master 7917
+2018-05-22_10:23:55.14342 forwarding CONT to unicorn master 7917
+2018-05-22_10:23:55.14381 wrapper for unicorn master 7917 exiting
+2018-05-22_10:23:55.29083 adopted existing unicorn master 7917
+2018-05-22_10:24:02.46613 wrapper for unicorn master 7917 exiting
+2018-05-22_10:24:02.48150 starting new unicorn master
+2018-05-22_10:24:35.52676 adopted new unicorn master 9636
+2018-05-22_10:46:39.50538 forwarding USR2 to unicorn master 9636
+2018-05-22_10:46:56.70233 Received TERM from runit, sending to process group (-PID)
+2018-05-22_10:46:56.80481 Terminated
+2018-05-22_10:46:56.80558 forwarding TERM to unicorn master 9636
+2018-05-22_10:46:56.80577 forwarding CONT to unicorn master 9636
+2018-05-22_10:46:56.80612 wrapper for unicorn master 9636 exiting
+2018-05-22_10:46:57.55468 adopted existing unicorn master 14332
+2018-05-22_10:48:55.14064 Received TERM from runit, sending to process group (-PID)
+2018-05-22_10:48:55.14874 Terminated
+2018-05-22_10:48:55.14954 forwarding TERM to unicorn master 14332
+2018-05-22_10:48:55.15032 forwarding CONT to unicorn master 14332
+2018-05-22_10:48:55.15129 wrapper for unicorn master 14332 exiting
+2018-05-22_10:48:55.27525 adopted existing unicorn master 14332
+2018-05-22_10:48:57.28136 wrapper for unicorn master 14332 exiting
+2018-05-22_10:48:57.30311 starting new unicorn master
+2018-05-22_10:49:31.63078 adopted new unicorn master 15771
+2018-05-22_10:50:28.93038 Received TERM from runit, sending to process group (-PID)
+2018-05-22_10:50:28.93297 Terminated
+2018-05-22_10:50:28.93430 forwarding CONT to unicorn master 15771
+2018-05-22_10:50:28.93465 forwarding TERM to unicorn master 15771
+2018-05-22_10:50:28.93547 wrapper for unicorn master 15771 exiting
+2018-05-22_10:50:28.95355 adopted existing unicorn master 15771
+2018-05-22_10:50:30.96382 wrapper for unicorn master 15771 exiting
+2018-05-22_10:50:31.00591 starting new unicorn master
+2018-05-22_10:51:06.94968 adopted new unicorn master 16881

@@ -1,0 +1,120 @@
+I, [2018-05-22T08:47:06.599460 #959]  INFO -- : Refreshing Gem list
+I, [2018-05-22T08:47:36.014056 #959]  INFO -- : listening on addr=127.0.0.1:8080 fd=18
+I, [2018-05-22T08:47:36.016303 #959]  INFO -- : listening on addr=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket fd=19
+I, [2018-05-22T08:47:36.062025 #959]  INFO -- : master process ready
+I, [2018-05-22T08:47:37.449653 #1054]  INFO -- : worker=0 ready
+I, [2018-05-22T08:47:37.474137 #1057]  INFO -- : worker=1 ready
+I, [2018-05-22T08:51:07.224481 #689]  INFO -- : Refreshing Gem list
+I, [2018-05-22T08:51:43.607613 #689]  INFO -- : listening on addr=127.0.0.1:8080 fd=18
+I, [2018-05-22T08:51:43.610708 #689]  INFO -- : unlinking existing socket=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket
+I, [2018-05-22T08:51:43.614211 #689]  INFO -- : listening on addr=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket fd=19
+I, [2018-05-22T08:51:43.652434 #689]  INFO -- : master process ready
+I, [2018-05-22T08:51:44.233832 #930]  INFO -- : worker=1 ready
+I, [2018-05-22T08:51:44.218511 #927]  INFO -- : worker=0 ready
+I, [2018-05-22T08:56:41.870468 #576]  INFO -- : Refreshing Gem list
+I, [2018-05-22T08:57:18.374789 #576]  INFO -- : listening on addr=127.0.0.1:8080 fd=18
+I, [2018-05-22T08:57:18.377098 #576]  INFO -- : unlinking existing socket=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket
+I, [2018-05-22T08:57:18.378773 #576]  INFO -- : listening on addr=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket fd=19
+I, [2018-05-22T08:57:18.402730 #576]  INFO -- : master process ready
+I, [2018-05-22T08:57:18.744988 #801]  INFO -- : worker=1 ready
+I, [2018-05-22T08:57:18.766122 #798]  INFO -- : worker=0 ready
+I, [2018-05-22T09:01:46.459555 #571]  INFO -- : Refreshing Gem list
+I, [2018-05-22T09:02:23.084854 #571]  INFO -- : listening on addr=127.0.0.1:8080 fd=18
+I, [2018-05-22T09:02:23.087342 #571]  INFO -- : unlinking existing socket=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket
+I, [2018-05-22T09:02:23.089058 #571]  INFO -- : listening on addr=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket fd=19
+I, [2018-05-22T09:02:23.120486 #571]  INFO -- : master process ready
+I, [2018-05-22T09:02:23.578206 #817]  INFO -- : worker=1 ready
+I, [2018-05-22T09:02:23.632483 #814]  INFO -- : worker=0 ready
+I, [2018-05-22T09:19:37.904977 #508]  INFO -- : Refreshing Gem list
+I, [2018-05-22T09:20:23.169276 #508]  INFO -- : listening on addr=127.0.0.1:8080 fd=18
+I, [2018-05-22T09:20:23.172548 #508]  INFO -- : unlinking existing socket=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket
+I, [2018-05-22T09:20:23.174373 #508]  INFO -- : listening on addr=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket fd=19
+I, [2018-05-22T09:20:23.205847 #508]  INFO -- : master process ready
+I, [2018-05-22T09:20:23.620816 #815]  INFO -- : worker=1 ready
+I, [2018-05-22T09:20:23.639292 #812]  INFO -- : worker=0 ready
+I, [2018-05-22T09:23:26.297987 #577]  INFO -- : Refreshing Gem list
+I, [2018-05-22T09:23:54.568149 #577]  INFO -- : listening on addr=127.0.0.1:8080 fd=18
+I, [2018-05-22T09:23:54.571544 #577]  INFO -- : unlinking existing socket=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket
+I, [2018-05-22T09:23:54.573064 #577]  INFO -- : listening on addr=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket fd=19
+I, [2018-05-22T09:23:54.607548 #577]  INFO -- : master process ready
+I, [2018-05-22T09:23:54.681270 #767]  INFO -- : worker=1 ready
+I, [2018-05-22T09:23:54.690126 #764]  INFO -- : worker=0 ready
+W, [2018-05-22T09:29:28.648872 #767]  WARN -- : #<Unicorn::HttpServer:0x00007fae082547f8>: worker (pid: 767) exceeds memory limit (520679936.0 bytes > 437257219 bytes)
+W, [2018-05-22T09:29:28.649479 #767]  WARN -- : Unicorn::WorkerKiller send SIGQUIT (pid: 767) alive: 300 sec (trial 1)
+I, [2018-05-22T09:29:29.181871 #577]  INFO -- : reaped #<Process::Status: pid 767 exit 0> worker=1
+I, [2018-05-22T09:29:29.444815 #1639]  INFO -- : worker=1 ready
+I, [2018-05-22T09:31:45.557476 #575]  INFO -- : Refreshing Gem list
+I, [2018-05-22T09:32:27.990028 #575]  INFO -- : listening on addr=127.0.0.1:8080 fd=18
+I, [2018-05-22T09:32:27.992213 #575]  INFO -- : unlinking existing socket=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket
+I, [2018-05-22T09:32:27.994476 #575]  INFO -- : listening on addr=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket fd=19
+I, [2018-05-22T09:32:28.030217 #575]  INFO -- : master process ready
+I, [2018-05-22T09:32:28.484359 #815]  INFO -- : worker=1 ready
+I, [2018-05-22T09:32:28.547983 #812]  INFO -- : worker=0 ready
+W, [2018-05-22T09:45:00.159969 #812]  WARN -- : #<Unicorn::HttpServer:0x00007f62a0baa9c8>: worker (pid: 812) exceeds memory limit (505255936.0 bytes > 500804982 bytes)
+W, [2018-05-22T09:45:00.162121 #812]  WARN -- : Unicorn::WorkerKiller send SIGQUIT (pid: 812) alive: 720 sec (trial 1)
+I, [2018-05-22T09:45:00.860559 #575]  INFO -- : reaped #<Process::Status: pid 812 exit 0> worker=0
+I, [2018-05-22T09:45:04.405356 #2539]  INFO -- : worker=0 ready
+W, [2018-05-22T09:50:45.149976 #2539]  WARN -- : #<Unicorn::HttpServer:0x00007f62a0baa9c8>: worker (pid: 2539) exceeds memory limit (501235712.0 bytes > 492924433 bytes)
+W, [2018-05-22T09:50:45.150524 #2539]  WARN -- : Unicorn::WorkerKiller send SIGQUIT (pid: 2539) alive: 336 sec (trial 1)
+I, [2018-05-22T09:50:45.477001 #575]  INFO -- : reaped #<Process::Status: pid 2539 exit 0> worker=0
+I, [2018-05-22T09:50:46.493677 #3246]  INFO -- : worker=0 ready
+W, [2018-05-22T10:15:30.149321 #3246]  WARN -- : #<Unicorn::HttpServer:0x00007f62a0baa9c8>: worker (pid: 3246) exceeds memory limit (486989824.0 bytes > 483484950 bytes)
+W, [2018-05-22T10:15:30.150045 #3246]  WARN -- : Unicorn::WorkerKiller send SIGQUIT (pid: 3246) alive: 1470 sec (trial 1)
+I, [2018-05-22T10:15:31.051374 #575]  INFO -- : reaped #<Process::Status: pid 3246 exit 0> worker=0
+I, [2018-05-22T10:15:36.541849 #6812]  INFO -- : worker=0 ready
+I, [2018-05-22T10:19:42.318064 #7917]  INFO -- : executing ["/opt/gitlab/embedded/bin/unicorn", "-D", "-E", "production", "-c", "/var/opt/gitlab/gitlab-rails/etc/unicorn.rb", "/opt/gitlab/embedded/service/gitlab-rails/config.ru", {18=>#<Kgio::TCPServer:fd 18>, 19=>#<Kgio::UNIXServer:/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket>}] (in /var/opt/gitlab/gitlab-rails/working)
+I, [2018-05-22T10:19:42.319054 #7917]  INFO -- : forked child re-executing...
+I, [2018-05-22T10:19:43.674777 #7917]  INFO -- : inherited addr=127.0.0.1:8080 fd=18
+I, [2018-05-22T10:19:43.675149 #7917]  INFO -- : inherited addr=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket fd=19
+I, [2018-05-22T10:19:43.675725 #7917]  INFO -- : Refreshing Gem list
+I, [2018-05-22T10:20:47.911063 #7917]  INFO -- : master process ready
+I, [2018-05-22T10:20:52.798329 #575]  INFO -- : reaped #<Process::Status: pid 6812 exit 0> worker=0
+I, [2018-05-22T10:20:53.519993 #8122]  INFO -- : worker=0 ready
+I, [2018-05-22T10:20:53.520107 #8125]  INFO -- : worker=1 ready
+I, [2018-05-22T10:20:56.707607 #575]  INFO -- : reaped #<Process::Status: pid 815 exit 0> worker=1
+I, [2018-05-22T10:20:56.710258 #575]  INFO -- : master complete
+FATAL:  terminating connection due to administrator command
+FATAL:  terminating connection due to administrator command
+I, [2018-05-22T10:23:55.366623 #7917]  INFO -- : reaped #<Process::Status: pid 8122 exit 0> worker=0
+I, [2018-05-22T10:23:55.367663 #7917]  INFO -- : reaped #<Process::Status: pid 8125 exit 0> worker=1
+I, [2018-05-22T10:23:55.368610 #7917]  INFO -- : master complete
+I, [2018-05-22T10:24:03.177852 #9636]  INFO -- : Refreshing Gem list
+I, [2018-05-22T10:24:34.439061 #9636]  INFO -- : listening on addr=127.0.0.1:8080 fd=18
+I, [2018-05-22T10:24:34.442483 #9636]  INFO -- : unlinking existing socket=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket
+I, [2018-05-22T10:24:34.452332 #9636]  INFO -- : listening on addr=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket fd=19
+I, [2018-05-22T10:24:34.488678 #9636]  INFO -- : master process ready
+I, [2018-05-22T10:24:35.329178 #9754]  INFO -- : worker=0 ready
+I, [2018-05-22T10:24:35.484089 #9757]  INFO -- : worker=1 ready
+I, [2018-05-22T10:46:39.546100 #14332]  INFO -- : executing ["/opt/gitlab/embedded/bin/unicorn", "-D", "-E", "production", "-c", "/var/opt/gitlab/gitlab-rails/etc/unicorn.rb", "/opt/gitlab/embedded/service/gitlab-rails/config.ru", {18=>#<Kgio::TCPServer:fd 18>, 19=>#<Kgio::UNIXServer:/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket>}] (in /var/opt/gitlab/gitlab-rails/working)
+I, [2018-05-22T10:46:39.547820 #14332]  INFO -- : forked child re-executing...
+I, [2018-05-22T10:46:40.400628 #14332]  INFO -- : inherited addr=127.0.0.1:8080 fd=18
+I, [2018-05-22T10:46:40.401169 #14332]  INFO -- : inherited addr=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket fd=19
+I, [2018-05-22T10:46:40.401688 #14332]  INFO -- : Refreshing Gem list
+FATAL:  terminating connection due to administrator command
+I, [2018-05-22T10:46:57.571562 #9636]  INFO -- : reaped #<Process::Status: pid 9757 exit 0> worker=1
+I, [2018-05-22T10:46:57.675797 #9636]  INFO -- : reaped #<Process::Status: pid 9754 exit 0> worker=0
+I, [2018-05-22T10:46:57.676278 #9636]  INFO -- : master complete
+I, [2018-05-22T10:47:28.575398 #14332]  INFO -- : master process ready
+I, [2018-05-22T10:47:28.943749 #14695]  INFO -- : worker=1 ready
+I, [2018-05-22T10:47:29.046295 #14692]  INFO -- : worker=0 ready
+FATAL:  terminating connection due to administrator command
+I, [2018-05-22T10:48:55.366778 #14332]  INFO -- : reaped #<Process::Status: pid 14692 exit 0> worker=0
+I, [2018-05-22T10:48:55.370855 #14332]  INFO -- : reaped #<Process::Status: pid 14695 exit 0> worker=1
+I, [2018-05-22T10:48:55.371995 #14332]  INFO -- : master complete
+I, [2018-05-22T10:48:58.696820 #15771]  INFO -- : Refreshing Gem list
+I, [2018-05-22T10:49:30.567429 #15771]  INFO -- : listening on addr=127.0.0.1:8080 fd=18
+I, [2018-05-22T10:49:30.569708 #15771]  INFO -- : unlinking existing socket=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket
+I, [2018-05-22T10:49:30.571130 #15771]  INFO -- : listening on addr=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket fd=19
+I, [2018-05-22T10:49:30.597943 #15771]  INFO -- : master process ready
+I, [2018-05-22T10:49:30.846936 #15883]  INFO -- : worker=0 ready
+I, [2018-05-22T10:49:30.896751 #15886]  INFO -- : worker=1 ready
+I, [2018-05-22T10:50:29.154648 #15771]  INFO -- : reaped #<Process::Status: pid 15883 exit 0> worker=0
+I, [2018-05-22T10:50:29.155144 #15771]  INFO -- : reaped #<Process::Status: pid 15886 exit 0> worker=1
+I, [2018-05-22T10:50:29.155883 #15771]  INFO -- : master complete
+I, [2018-05-22T10:50:31.757575 #16881]  INFO -- : Refreshing Gem list
+I, [2018-05-22T10:51:05.869372 #16881]  INFO -- : listening on addr=127.0.0.1:8080 fd=18
+I, [2018-05-22T10:51:05.871670 #16881]  INFO -- : unlinking existing socket=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket
+I, [2018-05-22T10:51:05.874848 #16881]  INFO -- : listening on addr=/var/opt/gitlab/gitlab-rails/sockets/gitlab.socket fd=19
+I, [2018-05-22T10:51:05.908190 #16881]  INFO -- : master process ready
+I, [2018-05-22T10:51:06.145569 #16966]  INFO -- : worker=0 ready
+I, [2018-05-22T10:51:06.169375 #16969]  INFO -- : worker=1 ready

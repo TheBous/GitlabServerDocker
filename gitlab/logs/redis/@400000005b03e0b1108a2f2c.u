@@ -1,0 +1,44 @@
+2018-05-22_09:01:36.62370                 _._                                                  
+2018-05-22_09:01:36.62421            _.-``__ ''-._                                             
+2018-05-22_09:01:36.62460       _.-``    `.  `_.  ''-._           Redis 3.2.11 (00000000/0) 64 bit
+2018-05-22_09:01:36.62485   .-`` .-```.  ```\/    _.,_ ''-._                                   
+2018-05-22_09:01:36.62519  (    '      ,       .-`  | `,    )     Running in standalone mode
+2018-05-22_09:01:36.62550  |`-._`-...-` __...-.``-._|'` _.-'|     Port: 0
+2018-05-22_09:01:36.62579  |    `-._   `._    /     _.-'    |     PID: 394
+2018-05-22_09:01:36.62605   `-._    `-._  `-./  _.-'    _.-'                                   
+2018-05-22_09:01:36.62625  |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+2018-05-22_09:01:36.62649  |    `-._`-._        _.-'_.-'    |           http://redis.io        
+2018-05-22_09:01:36.62695   `-._    `-._`-.__.-'_.-'    _.-'                                   
+2018-05-22_09:01:36.62872  |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+2018-05-22_09:01:36.62907  |    `-._`-._        _.-'_.-'    |                                  
+2018-05-22_09:01:36.62937   `-._    `-._`-.__.-'_.-'    _.-'                                   
+2018-05-22_09:01:36.62960       `-._    `-.__.-'    _.-'                                       
+2018-05-22_09:01:36.62982           `-._        _.-'                                           
+2018-05-22_09:01:36.63009               `-.__.-'                                               
+2018-05-22_09:01:36.63034 
+2018-05-22_09:01:36.63059 394:M 22 May 09:01:36.623 # WARNING: The TCP backlog setting of 511 cannot be enforced because /proc/sys/net/core/somaxconn is set to the lower value of 128.
+2018-05-22_09:01:36.63082 394:M 22 May 09:01:36.623 # Server started, Redis version 3.2.11
+2018-05-22_09:01:36.63115 394:M 22 May 09:01:36.623 # WARNING you have Transparent Huge Pages (THP) support enabled in your kernel. This will create latency and memory usage issues with Redis. To fix this issue run the command 'echo never > /sys/kernel/mm/transparent_hugepage/enabled' as root, and add it to your /etc/rc.local in order to retain the setting after a reboot. Redis must be restarted after THP is disabled.
+2018-05-22_09:01:36.63142 394:M 22 May 09:01:36.624 * The server is now ready to accept connections at /var/opt/gitlab/redis/redis.socket
+2018-05-22_09:06:37.08329 394:M 22 May 09:06:37.061 * 10 changes in 300 seconds. Saving...
+2018-05-22_09:06:37.09256 394:M 22 May 09:06:37.089 * Background saving started by pid 1489
+2018-05-22_09:06:37.11090 1489:C 22 May 09:06:37.109 * DB saved on disk
+2018-05-22_09:06:37.11164 1489:C 22 May 09:06:37.110 * RDB: 0 MB of memory used by copy-on-write
+2018-05-22_09:06:37.19095 394:M 22 May 09:06:37.190 * Background saving terminated with success
+2018-05-22_09:11:38.08867 394:M 22 May 09:11:38.088 * 10 changes in 300 seconds. Saving...
+2018-05-22_09:11:38.09357 394:M 22 May 09:11:38.093 * Background saving started by pid 2103
+2018-05-22_09:11:38.10111 2103:C 22 May 09:11:38.100 * DB saved on disk
+2018-05-22_09:11:38.10165 2103:C 22 May 09:11:38.101 * RDB: 0 MB of memory used by copy-on-write
+2018-05-22_09:11:38.19710 394:M 22 May 09:11:38.197 * Background saving terminated with success
+2018-05-22_09:16:39.09347 394:M 22 May 09:16:39.093 * 10 changes in 300 seconds. Saving...
+2018-05-22_09:16:39.09627 394:M 22 May 09:16:39.095 * Background saving started by pid 2720
+2018-05-22_09:16:39.10511 2720:C 22 May 09:16:39.104 * DB saved on disk
+2018-05-22_09:16:39.10584 2720:C 22 May 09:16:39.105 * RDB: 0 MB of memory used by copy-on-write
+2018-05-22_09:16:39.19616 394:M 22 May 09:16:39.196 * Background saving terminated with success
+2018-05-22_09:19:09.56810 394:signal-handler (1526980749) Received SIGTERM scheduling shutdown...
+2018-05-22_09:19:09.60961 394:M 22 May 09:19:09.609 # User requested shutdown...
+2018-05-22_09:19:09.61069 394:M 22 May 09:19:09.609 * Saving the final RDB snapshot before exiting.
+2018-05-22_09:19:09.61749 394:M 22 May 09:19:09.617 * DB saved on disk
+2018-05-22_09:19:09.61835 394:M 22 May 09:19:09.617 * Removing the pid file.
+2018-05-22_09:19:09.62134 394:M 22 May 09:19:09.621 * Removing the unix socket file.
+2018-05-22_09:19:09.62316 394:M 22 May 09:19:09.623 # Redis is now ready to exit, bye bye...
